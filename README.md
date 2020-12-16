@@ -27,7 +27,7 @@
 - 🌱 I’m currently learning more about Flutter.
 - 📫 How to reach me: [Twitter - @bafna_sb](https://twitter.com/bafna_sb)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend most of time listening songs everyday.
+- ⚡ Fun fact: I spend most of my time listening songs everyday.
 
 [![Twitter: bafna_sb](https://img.shields.io/twitter/follow/bafna_sb?style=social)](https://twitter.com/bafna_sb)
 [![Linkedin: jshreyansh](https://img.shields.io/badge/-jshreyansh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jshreyansh/)](https://www.linkedin.com/in/jshreyansh/)
