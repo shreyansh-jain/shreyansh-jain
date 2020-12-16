@@ -45,7 +45,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh-jain" />
 </a>
 <a href="https://github.com/shreyansh-jain">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyansh-jain&show_icons=true&theme=light&line_height=27" alt="Shreyansh's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyansh-jain&show_icons=true&theme=light&line_height=27 " alt="Shreyansh's github stats"/>
 </a>
 
  
