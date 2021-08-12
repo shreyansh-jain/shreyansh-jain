@@ -24,7 +24,7 @@
 
 
 - 🔭 I’m currently working at [Riverhouse Technologies](https://riverhousetechnologies.com/).
-- 🌱 I’m currently learning more about Flutter.
+- 🌱 I’m mostly working on Angular / NodeJS / React-Native.
 - 📫 How to reach me: [Twitter - @bafna_sb](https://twitter.com/bafna_sb)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend most of my time listening songs everyday.
