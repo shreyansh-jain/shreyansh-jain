@@ -32,7 +32,7 @@
 [![Twitter: bafna_sb](https://img.shields.io/twitter/follow/bafna_sb?style=social)](https://twitter.com/bafna_sb)
 [![Linkedin: jshreyansh](https://img.shields.io/badge/-jshreyansh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jshreyansh/)](https://www.linkedin.com/in/jshreyansh/)
 [![GitHub shreyansh-jain](https://img.shields.io/github/followers/shreyansh-jain?label=follow&style=social)](https://github.com/shreyansh-jain)
-[![website](https://img.shields.io/badge/portfoliowebsite-shreyansh-blue)](https://shreyanshjain.tech/)
+[![website](https://img.shields.io/badge/portfoliowebsite-shreyansh-blue)](https://shreyanshj.xyz/)
 
 **Languages and Tools:**
 
