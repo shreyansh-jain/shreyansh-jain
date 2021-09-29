@@ -27,5 +27,4 @@
 
 - 🔭 All things tech at [Riverhouse Technologies](https://riverhousetechnologies.com/)
 - 🌱 Curious about complex system designs
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend most of my time listening songs everyday
+- ⚡  Music gets me going
