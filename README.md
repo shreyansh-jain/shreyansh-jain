@@ -18,7 +18,7 @@
 <a href="https://www.facebook.com/bafna.shreyanshjain/">
   <img align="left" alt="Shreyansh's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://shreyansh.xyz/">
+<a href="[https://shreyansh.xyz/](https://blog.shreyanshjain.dev/about-me)">
   <img align="left" alt="Shreyansh's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/iconfinder.svg" />
 </a>
 <br/>
