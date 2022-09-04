@@ -24,10 +24,9 @@
 <br/>
 <br/>
 
-
 I am a full-stack developer with an experience of ~4 Years in software engineering and building tech products. Being a passionate software engineer with a can-do attitude, I got a lot of opportunities to design the system architecture and build over them for numerous startups from scratch. 
 
-I am born and brought up in Bhilai, India, and completed my bachelor's in engineering at Bhilai Institute of Technology, Durg, India. I am a two-time Smart India Hackathon finalist, I built a team with my mentor to participate in this contest, and this gave me an understanding of how building a product in the real world works.
+I am born and brought up in Bhilai, India, and completed my bachelor's in engineering at Bhilai Institute of Technology, Durg, India.  I am a two-time Smart India Hackathon finalist, I built a team with my mentor to participate in this contest, and this gave me an understanding of how building a product in the real world works.
 
 I joined my current organization when I was still in college as the first software developer and grew up to become the Chief Technology Officer of the company as we grew from 2 people to a 15+ people team. 
 
@@ -52,6 +51,8 @@ Highlights of some of the problem statements which I worked upon -
 - Improving the performance of a system by introducing indexes and keys to the RDBMS database.
 
 During the journey, I learned about the importance of building a team and culture in an organization, also how it drives the growth of any company.
+
+I also started the first ever Google Developers Group in central India with the motivation to contribute to a developer's growth.
 
 My current project demands me to work on Ruby on Rails and I am presently working on my ROR skills to contribute in a better way to the team.
 
