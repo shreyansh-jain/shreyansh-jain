@@ -1,4 +1,4 @@
-## Hello, I'm [Shreyansh Jain!](https://shreyanshjain.tech/) 👋
+## Hello, I'm [Shreyansh Jain!](https://blog.shreyanshjain.dev/about-me) 👋
 
 <a href="https://twitter.com/bafna_sb">
   <img align="left" alt="Shreyansh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -55,4 +55,4 @@ During the journey, I learned about the importance of building a team and cultur
 
 My current project demands me to work on Ruby on Rails and I am presently working on my ROR skills to contribute in a better way to the team.
 
-Click <a href="https://blog.shreyanshjain.dev/">here</a> to read the detailed blogs about the problem statements which I solved using tech.
+Click [here](https://blog.shreyanshjain.dev/) to read the detailed blogs about the projects that I worked upon.
